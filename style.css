@@ -12,7 +12,7 @@ h3 {
 
 body {
   color: #ffffff;
-  background: url(/imagem/back.gif);
+  background: url(./back.gif);
   background-position:center;
   font-family: "Inconsolata", monospace;
 }
